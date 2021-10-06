@@ -1,5 +1,5 @@
 {
-  "name": "NEAR Questionaire smart contract",
+  "name": "near-questionaire-smart-contract",
   "version": "0.0.1",
   "description": "Starter project for writing AssemblyScript contracts for NEAR Protocol",
   "scripts": {
